@@ -6,11 +6,11 @@
 ---
 
 ## 🌱 About Me
-- 🎓 Pursuing *BBIT (Bachelor of Business Information Technology)* – Ongoing
-- 🔭 Currently learning *Web Development & Web Design*
-- 🤝 Looking to collaborate on *Open Source projects*
-- 💬 Ask me about *Python, Java,JavaScript, Web Development, Databases*
-
+- 🎓 Pursuing **BBIT (Bachelor of Business Information Technology)** – *Ongoing*
+- 🔭 Currently learning **Web Development & Cloud Computing**
+- 🤝 Looking to collaborate on **Open Source projects**
+- 💬 Ask me about **Python, JavaScript, Web Development, Databases**
+- ⚡ Fun fact: *Code, Coffee, and Curiosity keep me going!*
 
 ---
 
@@ -46,32 +46,22 @@
 ---
 
 ## 📌 Pinned Projects
-- [🌐 Weather App](https://my-first-project-zeta.vercel.app/) – A live weather application built with React & APIs  
-- [🍔 Food App](https://munchiest.netlify.app/) – React-based food ordering UI project  
-- [🚚 Courier Management System](#) – A project to streamline courier and delivery operations using modern web technologies  
+- [🌐 Weather App](https://my-first-project-zeta.vercel.app/) – *A live weather application built with React & APIs*  
+- [🍔 Food App](https://munchiest.netlify.app/) – *React-based food ordering UI project*  
+- [🚚 Courier Management System](#) – *A project to streamline courier and delivery operations using modern web technologies*  
 - More projects on my [GitHub Repos](https://github.com/masud520?tab=repositories)
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Contact Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/masud-abdi-8b19702b4"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/masud520"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://my-first-project-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://munchiest.netlify.app/"><img src="https://img.shields.io/badge/Food%20App-ff5722?style=for-the-badge&logo=netlify&logoColor=white"></a>
+  <a href="mailto:mascudhajji520@gmal.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/254727951140"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/masud-abdi-8b19702b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/masud520"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 ## ✨ Random Dev Quote
 > "Code is like humor. When you have to explain it, it’s bad."
-
----
-
-## 🐍 Snake Contributions
-![snake gif](https://github.com/masud520/masud520/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=masud520.masud520)
